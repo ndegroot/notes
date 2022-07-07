@@ -3,7 +3,6 @@
  [[notes/2021-11-22-22-52-49.png|2021-11-22-22-52-49.png]]
  [[notes/2021-11-22-22-54-02.png|2021-11-22-22-54-02.png]]
  [[notes/docs/docs|docs]]
- [[notes/HL Panopto 1|HL Panopto 1]]
  [[notes/LICENSE|LICENSE]]
  [[notes/mkdocs.yml|mkdocs.yml]]
  [[notes/README|README]]
