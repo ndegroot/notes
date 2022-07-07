@@ -1,4 +1,5 @@
 # HL Panopto
+[pdf versie](https://github.com/ndegroot/notes/blob/main/docs/hl/HL%20Panopto%201.pdf)
 
 ## Inleiding
 Panopto is de opvolger voor Mediasite. Zie [Tiu Panopto pagina](https://www.tilburguniversity.edu/nl/intranet/meer-nieuws/panopto-gaat-mymediasite-vervangen) voor een toelichting. Hieronder staat een beschrijving hoe je Panoptie - als losse toepassing installeert. Dan heb je je de meeste gebruiksmogelijkheden. Maar het is ook mogelijk op de Panopto webapp te gebruiken, dat is voor eenvoudig gebruik ook al voldoende. Voor gebruik van Panopto opnamen in je cursus in Canvas kun je de [Canvas instructie volgen](https://tilburguniversity.cloud.panopto.eu/Panopto/Pages/Capture.aspx) Daarnaast kun je opnamen maken met je smartphone of Tablet. Zie hiervoor [Panopto Mobile](https://servicedesk.uvt.nl/tas/public/ssp/content/detail/knowledgeitem?origin=sspTile&unid=7ebf063d30ed4cc3b8ba4a0ab59fd9b9&from=66ee6b40-b0f5-4ea3-ad39-8c62c0cf73cc)
