@@ -18,7 +18,7 @@ To be able to use images in your posts, you need to move your 'attachments' fold
 ## Security risk!
 
 But do you want all attachments in your repo? Note that your repo is defaulting to 'Public'. Even after you change that to 'private' see he [docs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility) Maybe you don't want to upload all your attachments to GitHub. (Unless you really want an extra backup.) 
-It's better to only add the images you really need in your published note. One way of doing this is to put your attachments in a folder 'private' inside your attachments folder and exclude that folder from your repo. To do that add a line to the .gitignore file 
+It's better to only add the images you really need in your published notes. One way of doing this is to put your attachments in a folder 'private' inside your attachments folder and exclude that folder from your repo. To do that add a line to the .gitignore file 
 
 ``` .gitignore file
 
