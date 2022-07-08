@@ -30,6 +30,8 @@ With this template, you get these **out-of-the-box**:
 
 ![](2021-11-22-22-52-49.png)
 
+7. Visit https://ndegroot.github.io/notes
+
 **Not working for you?** Open an [issue](https://github.com/jobindj/obsidian-publish-mkdocs/issues/new/choose) and let me know what went wrong.
 
 ## Configuring your website
