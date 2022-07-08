@@ -17,8 +17,9 @@ To be able to use images in your posts, you need to move your 'attachments' fold
 
 ## Security risk!
 
-But do you want all attachments in your repo? Note that your repo should be to 'Public'. If you change that to 'private' the system breaks. For details see the [docs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility) Maybe you don't want to upload all your attachments to GitHub. 
-It's better to only add the images you really need in your published notes. One way of doing this is to put your attachments in a folder 'private' inside your attachments folder and exclude that folder from your repo. To do that add a line to the .gitignore file 
+But do you want all attachments in your repo? Note that your repo settings should be 'Public'. If you change that to 'private' the system breaks. So you don't want to upload all your attachments to GitHub. 
+It's better to only add the images you really need in your published notes. One way of doing this is to selectively use 'git add' to add only the images you need. You can also - it's a bit more work up front - put your other attachments in a folder 'private' inside your attachments folder and exclude that folder from your repo. Note that Obsidian still seems to find the attachments in your existing links. 
+To do that add a line to the .gitignore file 
 
 ``` .gitignore file
 
@@ -26,6 +27,8 @@ docs/03-Attachmemts/private
 
 ```
 
-Replace 'docs' with the name of your local repo folder. Note that Obsidian still seems to find the attachments in your existing links.
+Replace 'docs' with the name of your local repo folder. 
 
+Now, if you use 'git add .' only the attachments in the root folder are added to your repo. 
 
+_You still have to be careful to place new Obsidian attachments in the safe folder._
