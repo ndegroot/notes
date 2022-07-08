@@ -1,30 +1,4 @@
 .vscode/settings.json
 .obsidian/*
-docs/03-Attachments/base27-oz.png
-docs/03-Attachments/base27-rechten.png
-docs/03-Attachments/constitutional_temptations.png
-docs/03-Attachments/dilemmagame.png
-docs/03-Attachments/eindejaars game.png
-docs/03-Attachments/eindejaarsgame_screenshot.png
-docs/03-Attachments/erasmus plus grant.png
-docs/03-Attachments/finecstrafrecht.png
-docs/03-Attachments/FW_ IBL budget voor emeriti.eml
-docs/03-Attachments/HTML snippets for canvas.png
-docs/03-Attachments/invision_ss.png
-docs/03-Attachments/invisionapp.png
-docs/03-Attachments/opdpetervanschaik.png
-docs/03-Attachments/panopto-beheren.png
-docs/03-Attachments/panopto-pp.png
-docs/03-Attachments/panopto-toestaan.png
-docs/03-Attachments/panopto-wijzigen-toegang.png
-docs/03-Attachments/pinbal game screenshot.png
-docs/03-Attachments/Presentatie Klankbordgroep Thesisdossier 13-1-2022.pptx
-docs/03-Attachments/profiel-publiek.png
-docs/03-Attachments/pvsaanpak.png
-docs/03-Attachments/pvsmedewerkersbetrekken.png
-docs/03-Attachments/RE_ HR status Bart Koet.eml
-docs/03-Attachments/Schermafbeelding 2022-01-13 om 16.20.03.png
-docs/03-Attachments/trivia informatievaardigheden.png
-docs/03-Attachments/TST-Fontys-wallet.png
-docs/03-Attachments/versiopostgresql.png
-docs/03-Attachments/vlinder_pauwoog.png
+docs/03-Attachments
+!docs/03-Attachmemts/p
