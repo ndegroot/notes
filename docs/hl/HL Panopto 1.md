@@ -35,7 +35,7 @@ Er zijn verschillende optie om het beeld van de camera en het geluid al dan niet
 - Klaar? Gebruik de toetscombinatie {Alt}+{Tab} om terug te gaan naar Panopto en stop met de opname (rode vierkant [stop]) of druk op functietoets {f10}. De opname wordt nu - na bevestiging met de knop [klaar] opgestuurd naar de centrale Panopto server en verwerkt.
 ## 3 De opname instellen en delen
 - Ga naar je (centrale)[opnamen](https://tilburguniversity.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx) door op de blauwe link 'Mijn opnames beheren' te klikken.
-- ![[panopto-beheren.png]]
+- ![[panopto-pp.png]]
 - Ga met de muis naar je recente opname en klik op [Delen] en dan op de blauwe link 'Wijzigen'. 
 - ![[panopto-wijzigen-toegang.png]]
 

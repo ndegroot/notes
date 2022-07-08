@@ -1,4 +1,5 @@
 .vscode/settings.json
 .obsidian/*
 docs/03-Attachments
-!docs/03-Attachmemts/p
+!docs/03-Attachmemts/public
+
