@@ -1,13 +1,15 @@
 # Publish your Obsidian note
 
-Using the great template based on mkdocs https://github.com/jobindj/obsidian-publish-mkdocs it's easy to publish your notes. It uses GitHub, so it's a little developer oriented, but it's not that complex.
-
-# What you need to do
+Using a nice [template based on mkdocs](https://github.com/jobindj/obsidian-publish-mkdocs) it's easy to publish your notes. It uses GitHub, so it's a little developer oriented, but it's not that complex.
+## How does it work?
+Developers use a tool named _git_ to secure and share code and data. They put  it on a folder and using git they create a _repository_ on their computer or they start from an existing repository hosted somewhere - or create a _repo_ there - and _clone_ (that is a special form of copy) it on a local device.
+This system is used here to sync a folder inside your Obsidian tree to a remote repository youe create on a free service GitHub which automatically publishes the content on connected _GitHub pages_. Sound complicated but you only have to do your part.
+## What you need to do
 - Follow the directions above 
-- Create your free GitHub account
+- Create your free GitHub account if needed
 - Install a git tool and learn a little about git [here](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners) you can skip step 5, 8 and 9
 - (in short: 
-  inside your new Obsidian folder (= your local repo):
+  inside your new Obsidian folder (= your local repository):
 	  - git add . (collect your changes)
 	  - git commit -m "update" (or use other text)
 	  - git push (send you changes to your GitHub repo) 
@@ -18,7 +20,7 @@ To be able to use images in your posts, you need to move your 'attachments' fold
 
 But do you want all attachments in your repo? Note that your repo settings should be 'Public'. If you change that to 'private' the system breaks. So you don't want to upload all your attachments to GitHub. 
 It's better to only add the images you really need in your published notes. One way of doing this is to selectively use 'git add' to add only the images you need. You can also - it's a bit more work up front - put your other attachments in a folder 'private' inside your attachments folder and exclude that folder from your repo. Note that Obsidian still seems to find the attachments in your existing links. 
-To do that add a line to the .gitignore file 
+To do that add a line to the .gitignore file in your repository. 
 
 ``` .gitignore file
 
