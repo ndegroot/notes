@@ -3,7 +3,6 @@
 Using the great template based on mkdocs https://github.com/jobindj/obsidian-publish-mkdocs it's easy to publish your notes. It uses GitHub, so it's a little developer oriented, but it's not that complex.
 
 # What you need to do
-- Add the plugin in Obsidian
 - Follow the directions above 
 - Create your free GitHub account
 - Install a git tool and learn a little about git [here](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners) you can skip step 5, 8 and 9
