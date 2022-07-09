@@ -1,6 +1,6 @@
 # Publish your Obsidian note
 
-Using the great plugin https://github.com/jobindj/obsidian-publish-mkdocs it's easy to publish your notes. It uses GitHub, so it's a little developer oriented, but it's not that complex.
+Using the great template based on mkdocs https://github.com/jobindj/obsidian-publish-mkdocs it's easy to publish your notes. It uses GitHub, so it's a little developer oriented, but it's not that complex.
 
 # What you need to do
 - Add the plugin in Obsidian
