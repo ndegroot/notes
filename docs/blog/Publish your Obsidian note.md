@@ -22,7 +22,7 @@ To be able to use images in your posts, you need to move your 'attachments' fold
 
 But do you want all attachments in your repo? Note that your repo settings should be 'Public'. If you changed that to 'Private' the system breaks. So you don't want to upload all your attachments to GitHub. 
 It's better to only add the images to your repo you really need in your published notes. One way of doing this is to selectively use 'git add' to add only the images you need. You can also - it's a bit more work up front - put your other attachments in a folder 'private' inside your attachments folder and exclude that folder from your repo. Note that Obsidian still seems to find the attachments in your existing links. 
-To do that add a line to the .gitignore file in your repository. 
+To do that, add a line to the .gitignore file in your repository. 
 
 .gitignore file:
 
@@ -33,3 +33,6 @@ Replace 'docs/...' with the name of your local repo folder and the name of your 
 Now, if you use 'git add .' only the attachments in the root folder are added to your repo. 
 
 _You still have to be careful to place new Obsidian attachments in the safe private folder._
+
+
+[more info on using mkdoc with github Pages](https://about.gitlab.com/blog/2022/03/15/publishing-obsidian-notes-with-gitlab-pages/)
